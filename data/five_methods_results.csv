@@ -1,0 +1,6 @@
+Method,MAE,RMSE,sMAPE,MASE
+Adaptive base SARIMA,2.6812,3.4214,2.5519,0.9969
+Adaptive correction + refresh,2.7222,3.5357,2.5807,1.0121
+Frozen correction + gate,2.7229,3.4983,2.5862,1.0124
+Kalman bias-corrected,2.7538,3.4972,2.629,1.0239
+Frozen base SARIMA,2.7659,3.4941,2.6426,1.0284
